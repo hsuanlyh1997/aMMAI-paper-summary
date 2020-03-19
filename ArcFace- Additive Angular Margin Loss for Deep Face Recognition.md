@@ -1,6 +1,6 @@
 # ArcFace: Additive Angular Margin Loss for Deep Face Recognition
 
-*Deng, Jiankang, et al. "Arcface: Additive angular margin loss for deep face recognition." CVPR 2019.*
+*Deng, Jiankang, et al. CVPR 2019.*
 
 ## Contribution
 

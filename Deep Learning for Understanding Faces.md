@@ -1,6 +1,6 @@
 # Deep Learning for Understanding Faces
 
-*Ranjan et al., “Deep Learning for Understanding Faces: Machines May Be Just as Good, or Better, than Humans”. IEEE Signal Processing Magazine 2018.*
+*Ranjan et al.,  IEEE Signal Processing Magazine 2018.*
 
 ## Introduction
 
